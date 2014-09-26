@@ -1,4 +1,4 @@
-package com.stock;
+package com.stone;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

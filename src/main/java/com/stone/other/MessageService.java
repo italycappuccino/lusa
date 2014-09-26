@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.stock.other;
+package com.stone.other;
 
 /**
  * @author Peter

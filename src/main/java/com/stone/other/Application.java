@@ -6,7 +6,7 @@
  * 
  * @Copyright: 3Stock Inc. All rights reserved.
  */
-package com.stock.other;
+package com.stone.other;
 
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.context.ApplicationContext;

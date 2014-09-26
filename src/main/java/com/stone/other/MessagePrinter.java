@@ -6,7 +6,7 @@
  * 
  * @Copyright: 3Stock Inc. All rights reserved.
  */
-package com.stock.other;
+package com.stone.other;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

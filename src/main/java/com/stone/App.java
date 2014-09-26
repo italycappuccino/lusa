@@ -1,4 +1,4 @@
-package com.stock;
+package com.stone;
 
 /**
  * Hello world!
